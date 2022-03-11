@@ -18,7 +18,7 @@ https://www.youtube.com/c/NiyozbekObidov/videos
 
 # GroupManager
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/niyozbek/niyozbek-simple-python-telegram-bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/henryxy3/niyozbek-simple-python-telegram-bot)
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
